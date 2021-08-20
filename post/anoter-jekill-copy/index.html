@@ -97,19 +97,17 @@ With Jekyll, something that looked like</p>
 <ol>
 <li>
 <p>Change your submodule to point to map <code>gh-pages</code> to public instead of <code>_site</code> (recommended).</p>
-<pre><code> git submodule deinit _site
- git rm _site
- git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
-</code></pre>
+<p>git submodule deinit _site
+git rm _site
+git submodule add -b gh-pages <a href="mailto:git@github.com">git@github.com</a>:your-username/your-repo.git public</p>
 </li>
 <li>
 <p>Or, change the Hugo configuration to use <code>_site</code> instead of <code>public</code>.</p>
-<pre><code> {
-     ..
-     &quot;publishdir&quot;: &quot;_site&quot;,
-     ..
- }
-</code></pre>
+<p>{
+..
+&ldquo;publishdir&rdquo;: &ldquo;_site&rdquo;,
+..
+}</p>
 </li>
 </ol>
 <h2 id="convert-jekyll-templates-to-hugo-templates">Convert Jekyll templates to Hugo templates</h2>
