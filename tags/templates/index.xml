@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>templates on KALEX</title>
+    <title>templates on KALEX Blog</title>
     <link>/tags/templates/</link>
-    <description>Recent content in templates on KALEX</description>
+    <description>Recent content in templates on KALEX Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Alexey Koval</copyright>
