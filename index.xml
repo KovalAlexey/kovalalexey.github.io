@@ -119,5 +119,14 @@ This document is a brief primer on using go templates.</description>
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title>404 Page not found</title>
+      <link>/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/404.html</guid>
+      <description>Ошибка 404 Страница не найдена Предлагаю перейти на главную страницу.</description>
+    </item>
+    
   </channel>
 </rss>
